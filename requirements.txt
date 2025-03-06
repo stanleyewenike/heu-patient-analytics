@@ -1,0 +1,11 @@
+USE [db-patient-health];
+GO
+
+BULK INSERT PatientHealth
+FROM 'data\Pre-Interview dataset - patient_health.csv'
+WITH (
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '\n',
+    FIRSTROW = 2
+);
+GO
