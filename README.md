@@ -19,7 +19,8 @@ heu-patient-analytics/
 ├── notebooks/
 │   ├── 01-eda-and-prep-for-predictive-model.ipynb
 ├── reports/
-│   ├── 01-summary-of-findings.md
+│   ├── 01-summary-of-findings.md 
+│   ├── 02-analysis-plan.md
 │── src/
 │   ├── iac-templates-azure-sql-db-setup/   
 │   │   ├── template.json
