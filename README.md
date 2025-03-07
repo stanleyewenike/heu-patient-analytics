@@ -33,6 +33,7 @@ heu-patient-analytics/
 │   ├── .gitignore
 │   ├── README.md
 │   ├── requirements.txt```
+```
 
 The project structure is organized into the following directories:
 
