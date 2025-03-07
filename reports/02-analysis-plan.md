@@ -17,10 +17,7 @@ Late diagnosis correlates with worse outcomes.
 
 1. **Trend Analysis**: Diagnosis trends over time.
 2. **Patient Journey Analysis**: Timeline from symptoms to treatment.
-3. **Subgroup Analysis
-    **: Age,
-    **: gender,
-    **: socio-economic disparities.
+3. Subgroup Analysis: Age, gender, socio-economic disparities.
 
 ## Challenges & Mitigation
 
