@@ -64,7 +64,7 @@ The `src` directory contains source code for the project. The source code includ
 
 The `utils` directory contains utility files for the project. The utility files include a `.gitattributes` file, a `LICENSE` file, a `.gitignore` file, a `README.md` file, and a `requirements.txt` file. The utility files provide information on the project structure, licensing, and dependencies for the project.
 
- --------------------------------------------------------------------------------------------------------------------------------------------------------
+ -----------------------------------------------------------------------------------------------------
 
 ## Summary of Findings
 
@@ -98,4 +98,4 @@ The age distribution of patients was visualized using a histogram with a KDE plo
 The no-show rates were calculated and visualized for different diagnoses and GP practices. The analysis revealed that `Asthma` has the highest no-show rate at approximately 51.4%, followed by `Hypertension` and `Diabetes`. Among GP practices, `D012` has the highest no-show rate at approximately 57.2%, while `E345` has the lowest at approximately 43.8%. The no-show rates were visualized using
 bar plots.
 
- --------------------------------------------------------------------------------------------------------------------------------------------------------
+ -----------------------------------------------------------------------------------------------------
